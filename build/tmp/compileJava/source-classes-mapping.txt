@@ -1,4 +1,10 @@
-com/fastcampus/hellospringbatch/HelloSpringBatchApplication.java
- com.fastcampus.hellospringbatch.HelloSpringBatchApplication
+com/fastcampus/hellospringbatch/core/repository/PlainTextRepository.java
+ com.fastcampus.hellospringbatch.core.repository.PlainTextRepository
+com/fastcampus/hellospringbatch/core/domain/PlainText.java
+ com.fastcampus.hellospringbatch.core.domain.PlainText
+com/fastcampus/hellospringbatch/job/PlainTextJobConfig.java
+ com.fastcampus.hellospringbatch.job.PlainTextJobConfig
 com/fastcampus/hellospringbatch/job/HelloJobConfig.java
  com.fastcampus.hellospringbatch.job.HelloJobConfig
+com/fastcampus/hellospringbatch/HelloSpringBatchApplication.java
+ com.fastcampus.hellospringbatch.HelloSpringBatchApplication
